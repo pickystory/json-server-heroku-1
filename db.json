@@ -12,19 +12,19 @@
         "description": "some description",
         "products": [
           {
-            "id": 123456789,
+            "id": 649289859130,
             "img": [
             "https://cdn.shopify.com/s/files/1/0279/7607/products/MAIN-12-181_grande.jpg?v=1531502664",
               "https://cdn.shopify.com/s/files/1/0279/7607/products/MAIN-12-180_grande.jpg?v=1531502661",
               "https://cdn.shopify.com/s/files/1/0279/7607/products/MAIN-12-177_grande.jpg?v=1531502658"
             ],
-            "title": "Seersucker Shirt",
+            "title": "Morro Jacket",
             "description": "100% silk. White, striped in color. Model is 5 '8'' and wears a size IT38",
             "price": 315.0,
             "options": [{
               "name": "size",
               "values": [
-                "S",
+                "XS",
                 "M",
                 "L"
               ]
@@ -32,20 +32,20 @@
               "name": "color",
               "values": [
                 "Navy",
-                "Grey"
+                "Black"
               ]
             }],
             "variants": [
               {
-                "id": 123456789,
-                "title": "Navy",
+                "id": 7812864213050,
+                "title": "Black",
                 "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/MAIN-12-177_grande.jpg?v=1531502658",
                 "price": 250.0,
                 "option": "Navy"
               },
               {
                 "id": 123456789,
-                "title": "Grey",
+                "title": "Navy",
                 "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/MAIN-12-181_grande.jpg?v=1531502664",
                 "price": 250.0,
                 "option": "Grey"
