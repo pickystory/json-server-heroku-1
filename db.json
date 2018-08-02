@@ -21,40 +21,86 @@
             "title": "Morro Jacket",
             "description": "100% silk. White, striped in color. Model is 5 '8'' and wears a size IT38",
             "price": 315.0,
+            "url": "",
             "options": [{
               "name": "size",
               "values": [
-                "XS",
-                "M",
-                "L"
+                {
+                  "name": "S",
+                  "value": ""
+                },
+                {
+                  "name": "M",
+                  "value": ""
+                },
+                {
+                  "name": "L",
+                  "value": ""
+                }
               ]
             }, {
               "name": "color",
               "values": [
                 {
                   "name": "Navy",
-                  "value": "red"
+                  "value": "#1a0dab",
+                  "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-147_grande.jpg?v=1528518261"
                 },
                 {
                   "name": "Grey",
-                  "value": "black"
+                  "value": "#808080",
+                  "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-188_grande.jpg?v=1528516863"
                 }
               ]
             }],
             "variants": [
               {
-                "id": 7812864213050,
-                "title": "Black",
-                "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/MAIN-12-177_grande.jpg?v=1531502658",
+                "id": 12312,
+                "title": "S / Navy",
                 "price": 250.0,
-                "option": "Navy"
+                "option1": "S",
+                "option2": "Navy",
+                "option3": null
               },
               {
-                "id": 123456789,
-                "title": "Navy",
-                "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/MAIN-12-181_grande.jpg?v=1531502664",
+                "id": 53453,
+                "title": "S / Grey",
                 "price": 250.0,
-                "option": "Grey"
+                "option1": "S",
+                "option2": "Grey",
+                "option3": null
+              },
+              {
+                "id": 634,
+                "title": "M / Navy",
+                "price": 250.0,
+                "option1": "M",
+                "option2": "Navy",
+                "option3": null
+              },
+              {
+                "id": 1235,
+                "title": "M / Grey",
+                "price": 250.0,
+                "option1": "M",
+                "option2": "Grey",
+                "option3": null
+              },
+              {
+                "id": 7546,
+                "title": "L / Navy",
+                "price": 250.0,
+                "option1": "L",
+                "option2": "Navy",
+                "option3": null
+              },
+              {
+                "id": 456,
+                "title": "L / Grey",
+                "price": 250.0,
+                "option1": "L",
+                "option2": "Grey",
+                "option3": null
               }
             ]
           }
@@ -72,7 +118,7 @@
         "description": "lorem ipsum dolor sit",
         "products": [
           {
-            "id": 123456789,
+            "id": 7854,
             "img": [
             "https://cdn.shopify.com/s/files/1/0279/7607/products/MAIN-12-181_grande.jpg?v=1531502664",
               "https://cdn.shopify.com/s/files/1/0279/7607/products/MAIN-12-180_grande.jpg?v=1531502661",
@@ -81,40 +127,86 @@
             "title": "Seersucker Shirt",
             "description": "100% silk. White, striped in color. Model is 5 '8'' and wears a size IT38",
             "price": 315.0,
+            "url": "",
             "options": [{
               "name": "size",
               "values": [
-                "S",
-                "M",
-                "L"
+                {
+                  "name": "S",
+                  "value": ""
+                },
+                {
+                  "name": "M",
+                  "value": ""
+                },
+                {
+                  "name": "L",
+                  "value": ""
+                }
               ]
             }, {
               "name": "color",
               "values": [
                 {
                   "name": "Navy",
-                  "value": "red"
+                  "value": "#1a0dab",
+                  "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-147_grande.jpg?v=1528518261"
                 },
                 {
                   "name": "Grey",
-                  "value": "black"
+                  "value": "#808080",
+                  "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-188_grande.jpg?v=1528516863"
                 }
               ]
             }],
             "variants": [
               {
-                "id": 123456789,
-                "title": "Navy",
-                "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/MAIN-12-177_grande.jpg?v=1531502658",
+                "id": 2145,
+                "title": "S / Navy",
                 "price": 250.0,
-                "option": "Navy"
+                "option1": "S",
+                "option2": "Navy",
+                "option3": null
               },
               {
-                "id": 123456789,
-                "title": "Grey",
-                "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/MAIN-12-181_grande.jpg?v=1531502664",
+                "id": 123423456789,
+                "title": "S / Grey",
                 "price": 250.0,
-                "option": "Grey"
+                "option1": "S",
+                "option2": "Grey",
+                "option3": null
+              },
+              {
+                "id": 123112311,
+                "title": "M / Navy",
+                "price": 250.0,
+                "option1": "M",
+                "option2": "Navy",
+                "option3": null
+              },
+              {
+                "id": 345354614,
+                "title": "M / Grey",
+                "price": 250.0,
+                "option1": "M",
+                "option2": "Grey",
+                "option3": null
+              },
+              {
+                "id": 145623461234,
+                "title": "L / Navy",
+                "price": 250.0,
+                "option1": "L",
+                "option2": "Navy",
+                "option3": null
+              },
+              {
+                "id": 2143123123,
+                "title": "L / Grey",
+                "price": 250.0,
+                "option1": "L",
+                "option2": "Grey",
+                "option3": null
               }
             ]
           }
@@ -141,40 +233,86 @@
             "title": "Seersucker Shirt",
             "description": "100% silk. White, striped in color. Model is 5 '8'' and wears a size IT38",
             "price": 315.0,
+            "url": "",
             "options": [{
               "name": "size",
               "values": [
-                "S",
-                "M",
-                "L"
+                {
+                  "name": "S",
+                  "value": ""
+                },
+                {
+                  "name": "M",
+                  "value": ""
+                },
+                {
+                  "name": "L",
+                  "value": ""
+                }
               ]
             }, {
               "name": "color",
               "values": [
                 {
                   "name": "Navy",
-                  "value": "red"
+                  "value": "#1a0dab",
+                  "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-147_grande.jpg?v=1528518261"
                 },
                 {
                   "name": "Grey",
-                  "value": "black"
+                  "value": "#808080",
+                  "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-188_grande.jpg?v=1528516863"
                 }
               ]
             }],
             "variants": [
               {
-                "id": 123456789,
-                "title": "Navy",
-                "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/MAIN-12-177_grande.jpg?v=1531502658",
+                "id": 2361243,
+                "title": "S / Navy",
                 "price": 250.0,
-                "option": "Navy"
+                "option1": "S",
+                "option2": "Navy",
+                "option3": null
               },
               {
-                "id": 123456789,
-                "title": "Grey",
-                "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/MAIN-12-181_grande.jpg?v=1531502664",
+                "id": 1251241,
+                "title": "S / Grey",
                 "price": 250.0,
-                "option": "Grey"
+                "option1": "S",
+                "option2": "Grey",
+                "option3": null
+              },
+              {
+                "id": 845635,
+                "title": "M / Navy",
+                "price": 250.0,
+                "option1": "M",
+                "option2": "Navy",
+                "option3": null
+              },
+              {
+                "id": 2342355657,
+                "title": "M / Grey",
+                "price": 250.0,
+                "option1": "M",
+                "option2": "Grey",
+                "option3": null
+              },
+              {
+                "id": 573542435,
+                "title": "L / Navy",
+                "price": 250.0,
+                "option1": "L",
+                "option2": "Navy",
+                "option3": null
+              },
+              {
+                "id": 2457538,
+                "title": "L / Grey",
+                "price": 250.0,
+                "option1": "L",
+                "option2": "Grey",
+                "option3": null
               }
             ]
           },
@@ -188,40 +326,86 @@
             "title": "Seersucker Shirt",
             "description": "100% silk. White, striped in color. Model is 5 '8'' and wears a size IT38",
             "price": 315.0,
+            "url": "",
             "options": [{
               "name": "size",
               "values": [
-                "S",
-                "M",
-                "L"
+                {
+                  "name": "S",
+                  "value": ""
+                },
+                {
+                  "name": "M",
+                  "value": ""
+                },
+                {
+                  "name": "L",
+                  "value": ""
+                }
               ]
             }, {
               "name": "color",
               "values": [
                 {
                   "name": "Navy",
-                  "value": "red"
+                  "value": "#1a0dab",
+                  "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-147_grande.jpg?v=1528518261"
                 },
                 {
                   "name": "Grey",
-                  "value": "black"
+                  "value": "#808080",
+                  "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-188_grande.jpg?v=1528516863"
                 }
               ]
             }],
             "variants": [
               {
-                "id": 123456789,
-                "title": "Navy",
-                "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/MAIN-12-177_grande.jpg?v=1531502658",
+                "id": 235673473,
+                "title": "S / Navy",
                 "price": 250.0,
-                "option": "Navy"
+                "option1": "S",
+                "option2": "Navy",
+                "option3": null
               },
               {
-                "id": 123456789,
-                "title": "Grey",
-                "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/MAIN-12-181_grande.jpg?v=1531502664",
+                "id": 2457234523,
+                "title": "S / Grey",
                 "price": 250.0,
-                "option": "Grey"
+                "option1": "S",
+                "option2": "Grey",
+                "option3": null
+              },
+              {
+                "id": 34573568,
+                "title": "M / Navy",
+                "price": 250.0,
+                "option1": "M",
+                "option2": "Navy",
+                "option3": null
+              },
+              {
+                "id": 1251367,
+                "title": "M / Grey",
+                "price": 250.0,
+                "option1": "M",
+                "option2": "Grey",
+                "option3": null
+              },
+              {
+                "id": 3468346,
+                "title": "L / Navy",
+                "price": 250.0,
+                "option1": "L",
+                "option2": "Navy",
+                "option3": null
+              },
+              {
+                "id": 237346825,
+                "title": "L / Grey",
+                "price": 250.0,
+                "option1": "L",
+                "option2": "Grey",
+                "option3": null
               }
             ]
           }
