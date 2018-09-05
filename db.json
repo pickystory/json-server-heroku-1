@@ -29,7 +29,7 @@
         "id": 12316789
       }
     },
-
+    "excludedUrls": ["products/super-t-shirt", "/triangle-travel-case", "/cart/", "cooper-sweater"],
     "store": {
       "currency": "USD",
       "symbol": "$"
