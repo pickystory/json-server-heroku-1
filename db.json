@@ -29,7 +29,12 @@
         "id": 12316789
       }
     },
-    "excludedUrls": ["products/super-t-shirt", "/triangle-travel-case", "/cart/", "cooper-sweater"],
+    "excludedUrls": [
+      "products/super-t-shirt",
+      "/triangle-travel-case",
+      "/cart/",
+      "cooper-sweater"
+    ],
     "store": {
       "currency": "USD",
       "symbol": "$"
@@ -57,44 +62,47 @@
           ],
           "title": "Morro Jacket",
           "description": "100% silk. White, striped in color. Model is 5 '8'' and wears a size IT38  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat rem nostrum a laboriosam veniam doloribus tempora facilis, in modi eaque? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem odit aliquam velit nihil, sit reprehenderit, eveniet facere quam ratione quae rerum blanditiis eaque, reiciendis nemo nam asperiores qui tempore rem dolorum voluptatum dolor non unde. Sed, iste, omnis! Autem consectetur ex ratione, quis voluptates aspernatur hic perspiciatis quas beatae blanditiis voluptatum magni a placeat est, ab quidem animi deleniti doloribus necessitatibus culpa tempore at magnam nemo officia. Dicta, repellat alias aperiam voluptatum sit fugiat earum accusamus. Reiciendis veritatis voluptate nemo obcaecati consequuntur doloremque sint, qui amet tempora quae nisi voluptatum dicta eius asperiores suscipit provident. Laborum animi dolorem, ducimus repellendus?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum praesentium, cumque ullam! Nobis eos, adipisci ducimus distinctio officia eum similique rem, cumque quia eius reprehenderit.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam id, earum ipsam temporibus sequi eaque repudiandae animi quis suscipit adipisci tenetur doloribus placeat. Asperiores?",
-          "price": 315.0,
+          "price": 315,
           "url": "",
-          "options": [{
-            "name": "size",
-            "values": [
-              {
-                "name": "S",
-                "value": ""
-              },
-              {
-                "name": "M",
-                "value": ""
-              },
-              {
-                "name": "L",
-                "value": ""
-              }
-            ]
-          }, {
-            "name": "color",
-            "values": [
-              {
-                "name": "Navy",
-                "value": "#1a0dab",
-                "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-147_grande.jpg?v=1528518261"
-              },
-              {
-                "name": "Grey",
-                "value": "#808080",
-                "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-188_grande.jpg?v=1528516863"
-              }
-            ]
-          }],
+          "options": [
+            {
+              "name": "size",
+              "values": [
+                {
+                  "name": "S",
+                  "value": ""
+                },
+                {
+                  "name": "M",
+                  "value": ""
+                },
+                {
+                  "name": "L",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "name": "color",
+              "values": [
+                {
+                  "name": "Navy",
+                  "value": "#1a0dab",
+                  "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-147_grande.jpg?v=1528518261"
+                },
+                {
+                  "name": "Grey",
+                  "value": "#808080",
+                  "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-188_grande.jpg?v=1528516863"
+                }
+              ]
+            }
+          ],
           "variants": [
             {
               "id": 7812864213050,
               "title": "S / Navy",
-              "price": 250.0,
+              "price": 250,
               "option1": "S",
               "option2": "Navy",
               "option3": null
@@ -102,7 +110,7 @@
             {
               "id": 78128642130501,
               "title": "S / Grey",
-              "price": 250.0,
+              "price": 250,
               "option1": "S",
               "option2": "Grey",
               "option3": null
@@ -110,7 +118,7 @@
             {
               "id": 78128642130502,
               "title": "M / Navy",
-              "price": 250.0,
+              "price": 250,
               "option1": "M",
               "option2": "Navy",
               "option3": null
@@ -118,7 +126,7 @@
             {
               "id": 78128642130503,
               "title": "M / Grey",
-              "price": 250.0,
+              "price": 250,
               "option1": "M",
               "option2": "Grey",
               "option3": null
@@ -126,7 +134,7 @@
             {
               "id": 78128642130504,
               "title": "L / Navy",
-              "price": 250.0,
+              "price": 250,
               "option1": "L",
               "option2": "Navy",
               "option3": null
@@ -134,7 +142,7 @@
             {
               "id": 78128642130505,
               "title": "L / Grey",
-              "price": 250.0,
+              "price": 250,
               "option1": "L",
               "option2": "Grey",
               "option3": null
@@ -151,44 +159,47 @@
           ],
           "title": "Morro Jacket",
           "description": "100% silk. White, striped in color. Model is 5 '8'' and wears a size IT38 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, asperiores, cumque. Necessitatibus similique ipsum, harum vero corporis ducimus molestias recusandae! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam expedita maiores tempore reiciendis officiis nesciunt placeat cum, veritatis laboriosam laborum provident laudantium doloremque eaque magni eos. Ducimus, recusandae maiores aperiam et officiis sit? Expedita, nostrum est quas saepe corporis eum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad quaerat est in fugit impedit exercitationem, unde, recusandae tempora deleniti totam magnam dolorem enim tempore hic quod. Dolorum adipisci, quod maxime debitis iure explicabo veniam ipsam laborum expedita in cum facilis magnam delectus aperiam laboriosam sed enim quas, impedit at rem sapiente officia eaque deleniti incidunt. Provident neque sequi doloribus beatae perspiciatis nihil perferendis nostrum, inventore quasi adipisci animi magnam architecto dignissimos eum aperiam autem, soluta, velit aut est incidunt. Iure maiores veniam itaque deleniti ipsam, ipsa repudiandae, recusandae minima nihil! Nisi quidem amet facere non esse voluptates ab dolorum architecto.",
-          "price": 315.0,
+          "price": 315,
           "url": "",
-          "options": [{
-            "name": "size",
-            "values": [
-              {
-                "name": "S",
-                "value": ""
-              },
-              {
-                "name": "M",
-                "value": ""
-              },
-              {
-                "name": "L",
-                "value": ""
-              }
-            ]
-          }, {
-            "name": "color",
-            "values": [
-              {
-                "name": "Navy",
-                "value": "#1a0dab",
-                "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-147_grande.jpg?v=1528518261"
-              },
-              {
-                "name": "Grey",
-                "value": "#808080",
-                "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-188_grande.jpg?v=1528516863"
-              }
-            ]
-          }],
+          "options": [
+            {
+              "name": "size",
+              "values": [
+                {
+                  "name": "S",
+                  "value": ""
+                },
+                {
+                  "name": "M",
+                  "value": ""
+                },
+                {
+                  "name": "L",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "name": "color",
+              "values": [
+                {
+                  "name": "Navy",
+                  "value": "#1a0dab",
+                  "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-147_grande.jpg?v=1528518261"
+                },
+                {
+                  "name": "Grey",
+                  "value": "#808080",
+                  "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-188_grande.jpg?v=1528516863"
+                }
+              ]
+            }
+          ],
           "variants": [
             {
               "id": 78128642130506,
               "title": "S / Navy",
-              "price": 250.0,
+              "price": 250,
               "option1": "S",
               "option2": "Navy",
               "option3": null
@@ -196,7 +207,7 @@
             {
               "id": 78128642130507,
               "title": "S / Grey",
-              "price": 250.0,
+              "price": 250,
               "option1": "S",
               "option2": "Grey",
               "option3": null
@@ -204,7 +215,7 @@
             {
               "id": 78128642130508,
               "title": "M / Navy",
-              "price": 250.0,
+              "price": 250,
               "option1": "M",
               "option2": "Navy",
               "option3": null
@@ -212,7 +223,7 @@
             {
               "id": 78128642130509,
               "title": "M / Grey",
-              "price": 250.0,
+              "price": 250,
               "option1": "M",
               "option2": "Grey",
               "option3": null
@@ -220,7 +231,7 @@
             {
               "id": 78128642130500,
               "title": "L / Navy",
-              "price": 250.0,
+              "price": 250,
               "option1": "L",
               "option2": "Navy",
               "option3": null
@@ -228,7 +239,7 @@
             {
               "id": 781286421305011,
               "title": "L / Grey",
-              "price": 250.0,
+              "price": 250,
               "option1": "L",
               "option2": "Grey",
               "option3": null
@@ -245,44 +256,47 @@
           ],
           "title": "Morro Jacket",
           "description": "100% silk. White, striped in color. Model is 5 '8'' and wears a size IT38 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium quibusdam beatae iste repellendus quos deleniti molestiae sed facere, officia debitis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum, recusandae officiis id! Neque, totam, aspernatur. Dolorum atque velit eligendi praesentium quam perspiciatis sunt, vel maxime.",
-          "price": 315.0,
+          "price": 315,
           "url": "",
-          "options": [{
-            "name": "size",
-            "values": [
-              {
-                "name": "S",
-                "value": ""
-              },
-              {
-                "name": "M",
-                "value": ""
-              },
-              {
-                "name": "L",
-                "value": ""
-              }
-            ]
-          }, {
-            "name": "color",
-            "values": [
-              {
-                "name": "Navy",
-                "value": "#1a0dab",
-                "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-147_grande.jpg?v=1528518261"
-              },
-              {
-                "name": "Grey",
-                "value": "#808080",
-                "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-188_grande.jpg?v=1528516863"
-              }
-            ]
-          }],
+          "options": [
+            {
+              "name": "size",
+              "values": [
+                {
+                  "name": "S",
+                  "value": ""
+                },
+                {
+                  "name": "M",
+                  "value": ""
+                },
+                {
+                  "name": "L",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "name": "color",
+              "values": [
+                {
+                  "name": "Navy",
+                  "value": "#1a0dab",
+                  "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-147_grande.jpg?v=1528518261"
+                },
+                {
+                  "name": "Grey",
+                  "value": "#808080",
+                  "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-188_grande.jpg?v=1528516863"
+                }
+              ]
+            }
+          ],
           "variants": [
             {
               "id": 781286421305012,
               "title": "S / Navy",
-              "price": 250.0,
+              "price": 250,
               "option1": "S",
               "option2": "Navy",
               "option3": null
@@ -290,7 +304,7 @@
             {
               "id": 781286421305013,
               "title": "S / Grey",
-              "price": 250.0,
+              "price": 250,
               "option1": "S",
               "option2": "Grey",
               "option3": null
@@ -298,7 +312,7 @@
             {
               "id": 781286421305014,
               "title": "M / Navy",
-              "price": 250.0,
+              "price": 250,
               "option1": "M",
               "option2": "Navy",
               "option3": null
@@ -306,7 +320,7 @@
             {
               "id": 781286421305015,
               "title": "M / Grey",
-              "price": 250.0,
+              "price": 250,
               "option1": "M",
               "option2": "Grey",
               "option3": null
@@ -314,7 +328,7 @@
             {
               "id": 781286421305016,
               "title": "L / Navy",
-              "price": 250.0,
+              "price": 250,
               "option1": "L",
               "option2": "Navy",
               "option3": null
@@ -322,7 +336,7 @@
             {
               "id": 781286421305017,
               "title": "L / Grey",
-              "price": 250.0,
+              "price": 250,
               "option1": "L",
               "option2": "Grey",
               "option3": null
@@ -344,50 +358,53 @@
         {
           "id": 12451,
           "img": [
-          "https://cdn.shopify.com/s/files/1/0020/1847/6090/products/PRODUCT-MysteryRanchBackpack_BLK_02_686x882_crop_center_5e88ddd2-ca72-40c2-87d1-59f92bc72168_590x.jpg?v=1533365114",
+            "https://cdn.shopify.com/s/files/1/0020/1847/6090/products/PRODUCT-MysteryRanchBackpack_BLK_02_686x882_crop_center_5e88ddd2-ca72-40c2-87d1-59f92bc72168_590x.jpg?v=1533365114",
             "https://cdn.shopify.com/s/files/1/0279/7607/products/MAIN-12-180_grande.jpg?v=1531502661",
             "https://cdn.shopify.com/s/files/1/0279/7607/products/MAIN-12-177_grande.jpg?v=1531502658"
           ],
           "title": "Morro Jacket",
           "description": "100% silk. White, striped in color. Model is 5 '8'' and wears a size IT38 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente unde hic corporis optio soluta vel expedita, totam libero ad a. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis suscipit quasi minus in quaerat repudiandae quidem, quis voluptas delectus fuga omnis eum dolores harum alias enim quas dolorem non. Minus, unde, accusantium corporis eos provident atque eligendi ab aspernatur praesentium cum esse, excepturi dolor at reiciendis rerum. Ex, quidem, alias. Harum blanditiis nostrum eum tempore, saepe optio ullam error vel totam repellat repellendus consequatur impedit sequi animi beatae dolorum, cum fugit. Vero aut nostrum nulla, itaque deserunt nemo voluptatum, earum asperiores illo officiis doloribus iste odit ipsa maiores fugiat repudiandae ipsum, dolores velit beatae dolore possimus reprehenderit non quis. Saepe.",
-          "price": 315.0,
+          "price": 315,
           "url": "",
-          "options": [{
-            "name": "size",
-            "values": [
-              {
-                "name": "S",
-                "value": ""
-              },
-              {
-                "name": "M",
-                "value": ""
-              },
-              {
-                "name": "L",
-                "value": ""
-              }
-            ]
-          }, {
-            "name": "color",
-            "values": [
-              {
-                "name": "Navy",
-                "value": "#1a0dab",
-                "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-147_grande.jpg?v=1528518261"
-              },
-              {
-                "name": "Grey",
-                "value": "#808080",
-                "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-188_grande.jpg?v=1528516863"
-              }
-            ]
-          }],
+          "options": [
+            {
+              "name": "size",
+              "values": [
+                {
+                  "name": "S",
+                  "value": ""
+                },
+                {
+                  "name": "M",
+                  "value": ""
+                },
+                {
+                  "name": "L",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "name": "color",
+              "values": [
+                {
+                  "name": "Navy",
+                  "value": "#1a0dab",
+                  "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-147_grande.jpg?v=1528518261"
+                },
+                {
+                  "name": "Grey",
+                  "value": "#808080",
+                  "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-188_grande.jpg?v=1528516863"
+                }
+              ]
+            }
+          ],
           "variants": [
             {
               "id": 781286421305018,
               "title": "S / Navy",
-              "price": 250.0,
+              "price": 250,
               "option1": "S",
               "option2": "Navy",
               "option3": null
@@ -395,7 +412,7 @@
             {
               "id": 781286421305019,
               "title": "S / Grey",
-              "price": 250.0,
+              "price": 250,
               "option1": "S",
               "option2": "Grey",
               "option3": null
@@ -403,7 +420,7 @@
             {
               "id": 781286421305020,
               "title": "M / Navy",
-              "price": 250.0,
+              "price": 250,
               "option1": "M",
               "option2": "Navy",
               "option3": null
@@ -411,7 +428,7 @@
             {
               "id": 781286421305021,
               "title": "M / Grey",
-              "price": 250.0,
+              "price": 250,
               "option1": "M",
               "option2": "Grey",
               "option3": null
@@ -419,7 +436,7 @@
             {
               "id": 781286421305022,
               "title": "L / Navy",
-              "price": 250.0,
+              "price": 250,
               "option1": "L",
               "option2": "Navy",
               "option3": null
@@ -427,7 +444,7 @@
             {
               "id": 781286421305023,
               "title": "L / Grey",
-              "price": 250.0,
+              "price": 250,
               "option1": "L",
               "option2": "Grey",
               "option3": null
@@ -437,50 +454,53 @@
         {
           "id": 342,
           "img": [
-          "https://cdn.shopify.com/s/files/1/0279/7607/products/MAIN-12-181_grande.jpg?v=1531502664",
+            "https://cdn.shopify.com/s/files/1/0279/7607/products/MAIN-12-181_grande.jpg?v=1531502664",
             "https://cdn.shopify.com/s/files/1/0279/7607/products/MAIN-12-180_grande.jpg?v=1531502661",
             "https://cdn.shopify.com/s/files/1/0279/7607/products/MAIN-12-177_grande.jpg?v=1531502658"
           ],
           "title": "Morro Jacket",
           "description": "100% silk. White, striped in color. Model is 5 '8'' and wears a size IT38 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore natus, debitis assumenda obcaecati a dolorem dicta unde reprehenderit nihil beatae.",
-          "price": 315.0,
+          "price": 315,
           "url": "",
-          "options": [{
-            "name": "size",
-            "values": [
-              {
-                "name": "S",
-                "value": ""
-              },
-              {
-                "name": "M",
-                "value": ""
-              },
-              {
-                "name": "L",
-                "value": ""
-              }
-            ]
-          }, {
-            "name": "color",
-            "values": [
-              {
-                "name": "Navy",
-                "value": "#1a0dab",
-                "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-147_grande.jpg?v=1528518261"
-              },
-              {
-                "name": "Grey",
-                "value": "#808080",
-                "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-188_grande.jpg?v=1528516863"
-              }
-            ]
-          }],
+          "options": [
+            {
+              "name": "size",
+              "values": [
+                {
+                  "name": "S",
+                  "value": ""
+                },
+                {
+                  "name": "M",
+                  "value": ""
+                },
+                {
+                  "name": "L",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "name": "color",
+              "values": [
+                {
+                  "name": "Navy",
+                  "value": "#1a0dab",
+                  "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-147_grande.jpg?v=1528518261"
+                },
+                {
+                  "name": "Grey",
+                  "value": "#808080",
+                  "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-188_grande.jpg?v=1528516863"
+                }
+              ]
+            }
+          ],
           "variants": [
             {
               "id": 781286421305024,
               "title": "S / Navy",
-              "price": 250.0,
+              "price": 250,
               "option1": "S",
               "option2": "Navy",
               "option3": null
@@ -488,7 +508,7 @@
             {
               "id": 781286421305025,
               "title": "S / Grey",
-              "price": 250.0,
+              "price": 250,
               "option1": "S",
               "option2": "Grey",
               "option3": null
@@ -496,7 +516,7 @@
             {
               "id": 781286421305026,
               "title": "M / Navy",
-              "price": 250.0,
+              "price": 250,
               "option1": "M",
               "option2": "Navy",
               "option3": null
@@ -504,7 +524,7 @@
             {
               "id": 781286421305027,
               "title": "M / Grey",
-              "price": 250.0,
+              "price": 250,
               "option1": "M",
               "option2": "Grey",
               "option3": null
@@ -512,7 +532,7 @@
             {
               "id": 781286421305028,
               "title": "L / Navy",
-              "price": 250.0,
+              "price": 250,
               "option1": "L",
               "option2": "Navy",
               "option3": null
@@ -520,7 +540,7 @@
             {
               "id": 781286421305029,
               "title": "L / Grey",
-              "price": 250.0,
+              "price": 250,
               "option1": "L",
               "option2": "Grey",
               "option3": null
@@ -530,50 +550,53 @@
         {
           "id": 7854,
           "img": [
-          "https://cdn.shopify.com/s/files/1/0279/7607/products/MAIN-12-181_grande.jpg?v=1531502664",
+            "https://cdn.shopify.com/s/files/1/0279/7607/products/MAIN-12-181_grande.jpg?v=1531502664",
             "https://cdn.shopify.com/s/files/1/0279/7607/products/MAIN-12-180_grande.jpg?v=1531502661",
             "https://cdn.shopify.com/s/files/1/0279/7607/products/MAIN-12-177_grande.jpg?v=1531502658"
           ],
           "title": "Seersucker Shirt",
           "description": "100% silk. White, striped in color. Model is 5 '8'' and wears a size IT38 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam beatae autem, unde recusandae. Debitis est, doloremque fugit possimus corrupti, odio.",
-          "price": 315.0,
+          "price": 315,
           "url": "",
-          "options": [{
-            "name": "size",
-            "values": [
-              {
-                "name": "S",
-                "value": ""
-              },
-              {
-                "name": "M",
-                "value": ""
-              },
-              {
-                "name": "L",
-                "value": ""
-              }
-            ]
-          }, {
-            "name": "color",
-            "values": [
-              {
-                "name": "Navy",
-                "value": "#1a0dab",
-                "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-147_grande.jpg?v=1528518261"
-              },
-              {
-                "name": "Grey",
-                "value": "#808080",
-                "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-188_grande.jpg?v=1528516863"
-              }
-            ]
-          }],
+          "options": [
+            {
+              "name": "size",
+              "values": [
+                {
+                  "name": "S",
+                  "value": ""
+                },
+                {
+                  "name": "M",
+                  "value": ""
+                },
+                {
+                  "name": "L",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "name": "color",
+              "values": [
+                {
+                  "name": "Navy",
+                  "value": "#1a0dab",
+                  "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-147_grande.jpg?v=1528518261"
+                },
+                {
+                  "name": "Grey",
+                  "value": "#808080",
+                  "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-188_grande.jpg?v=1528516863"
+                }
+              ]
+            }
+          ],
           "variants": [
             {
               "id": 2145,
               "title": "S / Navy",
-              "price": 250.0,
+              "price": 250,
               "option1": "S",
               "option2": "Navy",
               "option3": null
@@ -581,7 +604,7 @@
             {
               "id": 123423456789,
               "title": "S / Grey",
-              "price": 250.0,
+              "price": 250,
               "option1": "S",
               "option2": "Grey",
               "option3": null
@@ -589,7 +612,7 @@
             {
               "id": 123112311,
               "title": "M / Navy",
-              "price": 250.0,
+              "price": 250,
               "option1": "M",
               "option2": "Navy",
               "option3": null
@@ -597,7 +620,7 @@
             {
               "id": 345354614,
               "title": "M / Grey",
-              "price": 250.0,
+              "price": 250,
               "option1": "M",
               "option2": "Grey",
               "option3": null
@@ -605,7 +628,7 @@
             {
               "id": 145623461234,
               "title": "L / Navy",
-              "price": 250.0,
+              "price": 250,
               "option1": "L",
               "option2": "Navy",
               "option3": null
@@ -613,19 +636,19 @@
             {
               "id": 2143123123,
               "title": "L / Grey",
-              "price": 250.0,
+              "price": 250,
               "option1": "L",
               "option2": "Grey",
               "option3": null
             }
           ]
         }
-
       ]
-    },{
+    },
+    {
       "id": 1231456789,
       "img": [
-      "https://cdn.shopify.com/s/files/1/0279/7607/products/MAIN-12-181_grande.jpg?v=1531502664",
+        "https://cdn.shopify.com/s/files/1/0279/7607/products/MAIN-12-181_grande.jpg?v=1531502664",
         "https://cdn.shopify.com/s/files/1/0279/7607/products/MAIN-12-180_grande.jpg?v=1531502661",
         "https://cdn.shopify.com/s/files/1/0279/7607/products/MAIN-12-177_grande.jpg?v=1531502658"
       ],
@@ -635,50 +658,53 @@
         {
           "id": 7812864265413050,
           "img": [
-          "https://cdn.shopify.com/s/files/1/0020/1847/6090/products/cooper_sweater_product_ch_001_686x882_crop_center_0916cd34-c310-4e99-abe8-3031c96fd80b_180x.jpg?v=1526272699",
+            "https://cdn.shopify.com/s/files/1/0020/1847/6090/products/cooper_sweater_product_ch_001_686x882_crop_center_0916cd34-c310-4e99-abe8-3031c96fd80b_180x.jpg?v=1526272699",
             "https://cdn.shopify.com/s/files/1/0279/7607/products/MAIN-12-180_grande.jpg?v=1531502661",
             "https://cdn.shopify.com/s/files/1/0279/7607/products/MAIN-12-177_grande.jpg?v=1531502658"
           ],
           "title": "Morro Jacket",
           "description": "100% silk. White, striped in color. Model is 5 '8'' and wears a size IT38 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, distinctio temporibus tempora! Quia totam voluptates, modi deserunt reprehenderit velit hic.",
-          "price": 315.0,
+          "price": 315,
           "url": "",
-          "options": [{
-            "name": "size",
-            "values": [
-              {
-                "name": "S",
-                "value": ""
-              },
-              {
-                "name": "M",
-                "value": ""
-              },
-              {
-                "name": "L",
-                "value": ""
-              }
-            ]
-          }, {
-            "name": "color",
-            "values": [
-              {
-                "name": "Navy",
-                "value": "#1a0dab",
-                "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-147_grande.jpg?v=1528518261"
-              },
-              {
-                "name": "Grey",
-                "value": "#808080",
-                "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-188_grande.jpg?v=1528516863"
-              }
-            ]
-          }],
+          "options": [
+            {
+              "name": "size",
+              "values": [
+                {
+                  "name": "S",
+                  "value": ""
+                },
+                {
+                  "name": "M",
+                  "value": ""
+                },
+                {
+                  "name": "L",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "name": "color",
+              "values": [
+                {
+                  "name": "Navy",
+                  "value": "#1a0dab",
+                  "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-147_grande.jpg?v=1528518261"
+                },
+                {
+                  "name": "Grey",
+                  "value": "#808080",
+                  "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-188_grande.jpg?v=1528516863"
+                }
+              ]
+            }
+          ],
           "variants": [
             {
               "id": 781286421305030,
               "title": "S / Navy",
-              "price": 250.0,
+              "price": 250,
               "option1": "S",
               "option2": "Navy",
               "option3": null
@@ -686,7 +712,7 @@
             {
               "id": 781286421305031,
               "title": "S / Grey",
-              "price": 250.0,
+              "price": 250,
               "option1": "S",
               "option2": "Grey",
               "option3": null
@@ -694,7 +720,7 @@
             {
               "id": 781286421305032,
               "title": "M / Navy",
-              "price": 250.0,
+              "price": 250,
               "option1": "M",
               "option2": "Navy",
               "option3": null
@@ -702,7 +728,7 @@
             {
               "id": 781286421305033,
               "title": "M / Grey",
-              "price": 250.0,
+              "price": 250,
               "option1": "M",
               "option2": "Grey",
               "option3": null
@@ -710,7 +736,7 @@
             {
               "id": 781286421305034,
               "title": "L / Navy",
-              "price": 250.0,
+              "price": 250,
               "option1": "L",
               "option2": "Navy",
               "option3": null
@@ -718,7 +744,7 @@
             {
               "id": 781286421305035,
               "title": "L / Grey",
-              "price": 250.0,
+              "price": 250,
               "option1": "L",
               "option2": "Grey",
               "option3": null
@@ -726,52 +752,55 @@
           ]
         },
         {
-          "id": 78128642112313050,
+          "id": 78128642112313060,
           "img": [
-          "https://cdn.shopify.com/s/files/1/0020/1847/6090/products/cooper_sweater_product_ch_001_686x882_crop_center_0916cd34-c310-4e99-abe8-3031c96fd80b_180x.jpg?v=1526272699",
+            "https://cdn.shopify.com/s/files/1/0020/1847/6090/products/cooper_sweater_product_ch_001_686x882_crop_center_0916cd34-c310-4e99-abe8-3031c96fd80b_180x.jpg?v=1526272699",
             "https://cdn.shopify.com/s/files/1/0279/7607/products/MAIN-12-180_grande.jpg?v=1531502661",
             "https://cdn.shopify.com/s/files/1/0279/7607/products/MAIN-12-177_grande.jpg?v=1531502658"
           ],
           "title": "Morro Jacket",
           "description": "100% silk. White, striped in color. Model is 5 '8'' and wears a size IT38 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla eius earum quia impedit doloribus eveniet maxime voluptates, aperiam vel natus!",
-          "price": 315.0,
+          "price": 315,
           "url": "",
-          "options": [{
-            "name": "size",
-            "values": [
-              {
-                "name": "S",
-                "value": ""
-              },
-              {
-                "name": "M",
-                "value": ""
-              },
-              {
-                "name": "L",
-                "value": ""
-              }
-            ]
-          }, {
-            "name": "color",
-            "values": [
-              {
-                "name": "Navy",
-                "value": "#1a0dab",
-                "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-147_grande.jpg?v=1528518261"
-              },
-              {
-                "name": "Grey",
-                "value": "#808080",
-                "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-188_grande.jpg?v=1528516863"
-              }
-            ]
-          }],
+          "options": [
+            {
+              "name": "size",
+              "values": [
+                {
+                  "name": "S",
+                  "value": ""
+                },
+                {
+                  "name": "M",
+                  "value": ""
+                },
+                {
+                  "name": "L",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "name": "color",
+              "values": [
+                {
+                  "name": "Navy",
+                  "value": "#1a0dab",
+                  "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-147_grande.jpg?v=1528518261"
+                },
+                {
+                  "name": "Grey",
+                  "value": "#808080",
+                  "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-188_grande.jpg?v=1528516863"
+                }
+              ]
+            }
+          ],
           "variants": [
             {
               "id": 781286421305036,
               "title": "S / Navy",
-              "price": 250.0,
+              "price": 250,
               "option1": "S",
               "option2": "Navy",
               "option3": null
@@ -779,7 +808,7 @@
             {
               "id": 781286421305037,
               "title": "S / Grey",
-              "price": 250.0,
+              "price": 250,
               "option1": "S",
               "option2": "Grey",
               "option3": null
@@ -787,7 +816,7 @@
             {
               "id": 781286421305038,
               "title": "M / Navy",
-              "price": 250.0,
+              "price": 250,
               "option1": "M",
               "option2": "Navy",
               "option3": null
@@ -795,7 +824,7 @@
             {
               "id": 781286421305039,
               "title": "M / Grey",
-              "price": 250.0,
+              "price": 250,
               "option1": "M",
               "option2": "Grey",
               "option3": null
@@ -803,7 +832,7 @@
             {
               "id": 781286421305040,
               "title": "L / Navy",
-              "price": 250.0,
+              "price": 250,
               "option1": "L",
               "option2": "Navy",
               "option3": null
@@ -811,7 +840,7 @@
             {
               "id": 781286421305041,
               "title": "L / Grey",
-              "price": 250.0,
+              "price": 250,
               "option1": "L",
               "option2": "Grey",
               "option3": null
@@ -821,50 +850,53 @@
         {
           "id": 7812864218673050,
           "img": [
-          "https://cdn.shopify.com/s/files/1/0279/7607/products/MAIN-12-181_grande.jpg?v=1531502664",
+            "https://cdn.shopify.com/s/files/1/0279/7607/products/MAIN-12-181_grande.jpg?v=1531502664",
             "https://cdn.shopify.com/s/files/1/0279/7607/products/MAIN-12-180_grande.jpg?v=1531502661",
             "https://cdn.shopify.com/s/files/1/0279/7607/products/MAIN-12-177_grande.jpg?v=1531502658"
           ],
           "title": "Morro Jacket",
           "description": "100% silk. White, striped in color. Model is 5 '8'' and wears a size IT38 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero consequuntur, rem suscipit unde laudantium maxime explicabo iste. Deleniti, nemo, nam!",
-          "price": 315.0,
+          "price": 315,
           "url": "",
-          "options": [{
-            "name": "size",
-            "values": [
-              {
-                "name": "S",
-                "value": ""
-              },
-              {
-                "name": "M",
-                "value": ""
-              },
-              {
-                "name": "L",
-                "value": ""
-              }
-            ]
-          }, {
-            "name": "color",
-            "values": [
-              {
-                "name": "Navy",
-                "value": "#1a0dab",
-                "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-147_grande.jpg?v=1528518261"
-              },
-              {
-                "name": "Grey",
-                "value": "#808080",
-                "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-188_grande.jpg?v=1528516863"
-              }
-            ]
-          }],
+          "options": [
+            {
+              "name": "size",
+              "values": [
+                {
+                  "name": "S",
+                  "value": ""
+                },
+                {
+                  "name": "M",
+                  "value": ""
+                },
+                {
+                  "name": "L",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "name": "color",
+              "values": [
+                {
+                  "name": "Navy",
+                  "value": "#1a0dab",
+                  "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-147_grande.jpg?v=1528518261"
+                },
+                {
+                  "name": "Grey",
+                  "value": "#808080",
+                  "img": "https://cdn.shopify.com/s/files/1/0279/7607/products/XIRENA-188_grande.jpg?v=1528516863"
+                }
+              ]
+            }
+          ],
           "variants": [
             {
               "id": 781286421305042,
               "title": "S / Navy",
-              "price": 250.0,
+              "price": 250,
               "option1": "S",
               "option2": "Navy",
               "option3": null
@@ -872,7 +904,7 @@
             {
               "id": 781286421305043,
               "title": "S / Grey",
-              "price": 250.0,
+              "price": 250,
               "option1": "S",
               "option2": "Grey",
               "option3": null
@@ -880,7 +912,7 @@
             {
               "id": 781286421305044,
               "title": "M / Navy",
-              "price": 250.0,
+              "price": 250,
               "option1": "M",
               "option2": "Navy",
               "option3": null
@@ -888,7 +920,7 @@
             {
               "id": 781286421305045,
               "title": "M / Grey",
-              "price": 250.0,
+              "price": 250,
               "option1": "M",
               "option2": "Grey",
               "option3": null
@@ -896,7 +928,7 @@
             {
               "id": 781286421305046,
               "title": "L / Navy",
-              "price": 250.0,
+              "price": 250,
               "option1": "L",
               "option2": "Navy",
               "option3": null
@@ -904,7 +936,7 @@
             {
               "id": 781286421305047,
               "title": "L / Grey",
-              "price": 250.0,
+              "price": 250,
               "option1": "L",
               "option2": "Grey",
               "option3": null
@@ -915,144 +947,131 @@
     }
   ],
   "collections": {
-    "111":
-      {
-        "id": 111,
-        "collName": "my best collection",
-        "products":
-          {
-            "1111":
-              {
-                "id": 1111,
-                "name": "best t-shirt",
-                "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis maxime voluptate dignissimos.",
-                "line": [
-                  "path/to/best_t-shirt/img.jpg",
-                  "path/to/best_t-shirt/img.jpg",
-                  "path/to/best_t-shirt/img.jpg",
-                  "path/to/best_t-shirt/img.jpg",
-                  "path/to/best_t-shirt/img.jpg"
-                ]
-              },
-            "1112":
-              {
-                "id": 1112,
-                "name": "best pants" ,
-                "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat distinctio illum voluptas amet ducimus, sed eligendi exercitationem reprehenderit! Qui culpa aperiam magnam inventore minus ipsum!",
-                "line": [
-                  "path/to/best_pants/img.jpg",
-                  "path/to/best_pants/img.jpg",
-                  "path/to/best_pants/img.jpg",
-                  "path/to/best_pants/img.jpg",
-                  "path/to/best_pants/img.jpg"
-                ]
-              },
-            "1113":
-              {
-                "id": 1113,
-                "name": "best shoes" ,
-                "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat distinctio illum voluptas amet ducimus, sed eligendi exercitationem reprehenderit! Qui culpa aperiam magnam inventore minus ipsum!",
-                "line": [
-                  "path/to/best_shoes/img.jpg",
-                  "path/to/best_shoes/img.jpg",
-                  "path/to/best_shoes/img.jpg",
-                  "path/to/best_shoes/img.jpg",
-                  "path/to/best_shoes/img.jpg"
-                ]
-              }
-          }
-      },
-    "112":
-      {
-        "id": 112,
-        "collName": "my worst collection",
-        "products": {
-          "1121":
-            {
-              "id": 1121,
-              "name": "worst t-shirt",
-              "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos atque omnis delectus?",
-              "line": [
-                "path/to/worst_t-shirt/img.jpg",
-                "path/to/worst_t-shirt/img.jpg",
-                "path/to/worst_t-shirt/img.jpg",
-                "path/to/worst_t-shirt/img.jpg",
-                "path/to/worst_t-shirt/img.jpg"
-              ]
-            },
-          "1122":
-            {
-              "id": 1122,
-              "name": "worst pants",
-              "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus harum officia sapiente a sequi officiis minus, recusandae, temporibus, earum labore optio amet quas ea vero!",
-              "line": [
-                "path/to/worst_pants/img.jpg",
-                "path/to/worst_pants/img.jpg",
-                "path/to/worst_pants/img.jpg",
-                "path/to/worst_pants/img.jpg",
-                "path/to/worst_pants/img.jpg"
-              ]
-            },
-          "1123":
-            {
-              "id": 1123,
-              "name": "worst shoes",
-              "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus harum officia sapiente a sequi officiis minus, recusandae, temporibus, earum labore optio amet quas ea vero!",
-              "line": [
-                "path/to/worst_shoes/img.jpg",
-                "path/to/worst_shoes/img.jpg",
-                "path/to/worst_shoes/img.jpg",
-                "path/to/worst_shoes/img.jpg",
-                "path/to/worst_shoes/img.jpg"
-              ]
-            }
-        }
-      },
-    "113":
-      {
-        "id": 113,
-        "collName": "my collected collection",
-        "products": {
-          "1131":
-            {
-              "id": 1131,
-              "name": "freaky t-shirt",
-              "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit, temporibus, eligendi. Nesciunt.",
-              "line": [
-                "path/to/freaky_t-shirt/img.jpg",
-                "path/to/freaky_t-shirt/img.jpg",
-                "path/to/freaky_t-shirt/img.jpg",
-                "path/to/freaky_t-shirt/img.jpg",
-                "path/to/freaky_t-shirt/img.jpg"
-              ]
-            },
-          "1132":
-            {
-              "id": 1132,
-              "name": "freaky pants",
-              "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis nostrum qui iure quia quam sed minima ex aliquid ad, reiciendis vitae in molestiae pariatur a!",
-              "line": [
-                "path/to/freaky_pants/img.jpg",
-                "path/to/freaky_pants/img.jpg",
-                "path/to/freaky_pants/img.jpg",
-                "path/to/freaky_pants/img.jpg",
-                "path/to/freaky_pants/img.jpg"
-              ]
-            },
-          "1133":
-            {
-              "id": 1133,
-              "name": "freaky shoes",
-              "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis nostrum qui iure quia quam sed minima ex aliquid ad, reiciendis vitae in molestiae pariatur a!",
-              "line": [
-                "path/to/freaky_shoes/img.jpg",
-                "path/to/freaky_shoes/img.jpg",
-                "path/to/freaky_shoes/img.jpg",
-                "path/to/freaky_shoes/img.jpg",
-                "path/to/freaky_shoes/img.jpg"
-              ]
-            }
+    "111": {
+      "id": 111,
+      "collName": "my best collection",
+      "products": {
+        "1111": {
+          "id": 1111,
+          "name": "best t-shirt",
+          "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis maxime voluptate dignissimos.",
+          "line": [
+            "path/to/best_t-shirt/img.jpg",
+            "path/to/best_t-shirt/img.jpg",
+            "path/to/best_t-shirt/img.jpg",
+            "path/to/best_t-shirt/img.jpg",
+            "path/to/best_t-shirt/img.jpg"
+          ]
+        },
+        "1112": {
+          "id": 1112,
+          "name": "best pants",
+          "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat distinctio illum voluptas amet ducimus, sed eligendi exercitationem reprehenderit! Qui culpa aperiam magnam inventore minus ipsum!",
+          "line": [
+            "path/to/best_pants/img.jpg",
+            "path/to/best_pants/img.jpg",
+            "path/to/best_pants/img.jpg",
+            "path/to/best_pants/img.jpg",
+            "path/to/best_pants/img.jpg"
+          ]
+        },
+        "1113": {
+          "id": 1113,
+          "name": "best shoes",
+          "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat distinctio illum voluptas amet ducimus, sed eligendi exercitationem reprehenderit! Qui culpa aperiam magnam inventore minus ipsum!",
+          "line": [
+            "path/to/best_shoes/img.jpg",
+            "path/to/best_shoes/img.jpg",
+            "path/to/best_shoes/img.jpg",
+            "path/to/best_shoes/img.jpg",
+            "path/to/best_shoes/img.jpg"
+          ]
         }
       }
+    },
+    "112": {
+      "id": 112,
+      "collName": "my worst collection",
+      "products": {
+        "1121": {
+          "id": 1121,
+          "name": "worst t-shirt",
+          "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos atque omnis delectus?",
+          "line": [
+            "path/to/worst_t-shirt/img.jpg",
+            "path/to/worst_t-shirt/img.jpg",
+            "path/to/worst_t-shirt/img.jpg",
+            "path/to/worst_t-shirt/img.jpg",
+            "path/to/worst_t-shirt/img.jpg"
+          ]
+        },
+        "1122": {
+          "id": 1122,
+          "name": "worst pants",
+          "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus harum officia sapiente a sequi officiis minus, recusandae, temporibus, earum labore optio amet quas ea vero!",
+          "line": [
+            "path/to/worst_pants/img.jpg",
+            "path/to/worst_pants/img.jpg",
+            "path/to/worst_pants/img.jpg",
+            "path/to/worst_pants/img.jpg",
+            "path/to/worst_pants/img.jpg"
+          ]
+        },
+        "1123": {
+          "id": 1123,
+          "name": "worst shoes",
+          "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus harum officia sapiente a sequi officiis minus, recusandae, temporibus, earum labore optio amet quas ea vero!",
+          "line": [
+            "path/to/worst_shoes/img.jpg",
+            "path/to/worst_shoes/img.jpg",
+            "path/to/worst_shoes/img.jpg",
+            "path/to/worst_shoes/img.jpg",
+            "path/to/worst_shoes/img.jpg"
+          ]
+        }
+      }
+    },
+    "113": {
+      "id": 113,
+      "collName": "my collected collection",
+      "products": {
+        "1131": {
+          "id": 1131,
+          "name": "freaky t-shirt",
+          "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit, temporibus, eligendi. Nesciunt.",
+          "line": [
+            "path/to/freaky_t-shirt/img.jpg",
+            "path/to/freaky_t-shirt/img.jpg",
+            "path/to/freaky_t-shirt/img.jpg",
+            "path/to/freaky_t-shirt/img.jpg",
+            "path/to/freaky_t-shirt/img.jpg"
+          ]
+        },
+        "1132": {
+          "id": 1132,
+          "name": "freaky pants",
+          "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis nostrum qui iure quia quam sed minima ex aliquid ad, reiciendis vitae in molestiae pariatur a!",
+          "line": [
+            "path/to/freaky_pants/img.jpg",
+            "path/to/freaky_pants/img.jpg",
+            "path/to/freaky_pants/img.jpg",
+            "path/to/freaky_pants/img.jpg",
+            "path/to/freaky_pants/img.jpg"
+          ]
+        },
+        "1133": {
+          "id": 1133,
+          "name": "freaky shoes",
+          "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis nostrum qui iure quia quam sed minima ex aliquid ad, reiciendis vitae in molestiae pariatur a!",
+          "line": [
+            "path/to/freaky_shoes/img.jpg",
+            "path/to/freaky_shoes/img.jpg",
+            "path/to/freaky_shoes/img.jpg",
+            "path/to/freaky_shoes/img.jpg",
+            "path/to/freaky_shoes/img.jpg"
+          ]
+        }
+      }
+    }
   }
 }
