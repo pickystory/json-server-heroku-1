@@ -620,8 +620,7 @@
           "title": "Stripped sailor style t shirt",
           "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus, unde a illo id quae perferendis asperiores consequatur corporis, esse quaerat iusto!",
           "price": 112,
-          "imgMain": "https://image.shutterstock.com/z/stock-photo-black-and-white-stripped-sailor-style-t-shirt-isolated-765643426.jpg",
-          "imgSec": [],
+          "img": ["https://image.shutterstock.com/z/stock-photo-black-and-white-stripped-sailor-style-t-shirt-isolated-765643426.jpg"],
           "options": [
             {
               "name": "size",
@@ -741,8 +740,8 @@
           "title": "Blue Jeans",
           "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad cumque eaque ipsam nesciunt, sint quasi.",
           "price": 164,
-          "imgMain": "https://image.shutterstock.com/z/stock-photo-blue-jeans-isolated-on-white-529584811.jpg",
-          "imgSec": [
+          "img": [
+            "https://image.shutterstock.com/z/stock-photo-blue-jeans-isolated-on-white-529584811.jpg",
             "https://image.shutterstock.com/z/stock-photo-a-set-of-clothes-on-a-white-background-isolated-729559303.jpg",
             "https://image.shutterstock.com/z/stock-photo-beautiful-casual-jeans-pants-and-clothes-isolated-on-white-background-1038286126.jpg"
           ],
@@ -807,8 +806,7 @@
           "title": "White female sneakers",
           "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae hic ducimus tenetur temporibus, reprehenderit dolores pariatur.",
           "price": 200,
-          "imgMain": "https://image.shutterstock.com/z/stock-photo-white-female-sneakers-isolated-on-white-background-flat-lay-top-view-644303938.jpg",
-          "imgSec": [],
+          "img": ["https://image.shutterstock.com/z/stock-photo-white-female-sneakers-isolated-on-white-background-flat-lay-top-view-644303938.jpg"],
           "options": [
             {
               "name": "size",
